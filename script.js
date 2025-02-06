@@ -64,3 +64,5 @@ function playAudio() {
         audio.currentTime = 0;
     }, 500);
 }
+
+//Just a few line of comment to turn this project from CSS to JS
